@@ -10,3 +10,6 @@ This repository contains various Machine learning models used in industry to pre
   - Simpler machine learning models (Linear Regression,Logistic Regression)
   - Recurrent Neural Networks / Long Short Term Memory Networks
   - ARIMA model to capture the trends,seasonality, forecast the prices and use as a baseline
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
